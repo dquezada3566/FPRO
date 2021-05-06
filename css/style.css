@@ -89,3 +89,7 @@ footer{
   .sticky + .content {
     padding-top: 60px;
   }
+.title{
+    background-color: darkgreen;
+    font-style: unset;
+}
