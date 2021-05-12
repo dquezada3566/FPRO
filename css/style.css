@@ -12,7 +12,8 @@ header{
     width: 700px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px;
+    font-size: 300px;
+    font: 1em sans-serif;
     }
     nav{
         background-color: darkblue;
@@ -50,22 +51,19 @@ aside{
     text-align: center;
     background-color: forestgreen;
     color: gold;
-    height: 984px;
-}
-footer{
-    background-color: green;
-    color: hotpink;
-    text-align: center;
-    padding: 60px 20px;
-    width: 700px;
+    height: 966px;
     margin-left: auto;
     margin-right: auto;
-
 }
-.clearfloat{
-    clear:both;
+footer{
+    background-color: rgb(13, 0, 128);
+    color: hotpink;
+    text-align: center;
+    padding: 40px 20px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 #navbar {
     overflow: hidden;
     background-color:black;}
@@ -80,7 +78,7 @@ footer{
       }
 
 .content {
-  padding: 16px;
+  padding: 100px;
 }
 .sticky {
     position: fixed;
