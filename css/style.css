@@ -9,7 +9,7 @@ header{
     padding: 40px 20px;
     text-align:center ;
     color: crimson;
-    width: 700px;
+    width: 1207px;
     margin-left: auto;
     margin-right: auto;
     font-size: 300px;
@@ -59,8 +59,8 @@ footer{
     background-color: rgb(13, 0, 128);
     color: hotpink;
     text-align: center;
-    padding: 40px 20px;
-    width: 1200px;
+    padding: 100px 20px;
+    width: 1207px;
     margin-left: auto;
     margin-right: auto;
 }
