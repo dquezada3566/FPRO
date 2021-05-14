@@ -100,3 +100,33 @@ body{
     background-attachment: fixed;                    
     background-image: url("../img_folder/forest.jpg");
 }
+#person1{
+    font-style: oblique;
+    float: left;
+    background-color: blue;
+    text-align: left;
+    justify-content: left;
+    height: 200px;
+    width: 500px;
+
+
+}
+#person2{
+    font-style: oblique;
+    float: right;
+    background-color: blue;
+    text-align: right;
+    justify-content: right;
+    height: 200px;
+    width: 500px;
+   
+}
+#person3{
+    font-style: oblique;
+    float: left;
+    background-color: rgb(255, 51, 0);
+    text-align: left;
+    justify-content: left;
+    height: 200px;
+    width: 500px;
+}
